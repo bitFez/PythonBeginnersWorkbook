@@ -15,3 +15,6 @@ Like this:
  
 Did you notice how the print function is written in lowercase?
 Write your name in the box below using the Python language.
+
+|-------------------------------------------------------------------------|
+|-------------------------------------------------------------------------|

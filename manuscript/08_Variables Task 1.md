@@ -60,5 +60,5 @@ Use the Python interpreter to :
 
 
 
-| batman = "Adam West"  batman = "Michael Keaton"  batman = "George Clooney" | Every time the variable `batman` is reassigned as something else it overwrites the old data contained. Use the Python interpreter to : 1. Assign Christian Bale to the variable `batman` 2. Print the variable `batman` 3. Assign Ben Affleck & print the `batman` variable 4. Assign Robert Pattenson as the new batman and display this by printing the variable out again. |
-|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `batman = "Adam West"`  `batman = "Michael Keaton"`  `batman = "George Clooney"` 	| Every time the variable `batman` is reassigned as something else it overwrites the old data contained. Use the Python interpreter to : 1. Assign Christian Bale to the variable `batman` 2. Print the variable `batman` 3. Assign Ben Affleck & print the `batman` variable 4. Assign Robert Pattenson as the new batman and display this by printing the variable out again. 	|
+|-	|-	|

@@ -9,7 +9,6 @@ For comments that will be written over several lines, you can add 3 quotation ma
 
 Type the following code into Python and see what happens when you try to run it:
 
-~~~
 ```
 # This line of text is ignored. The next line prints some text
 print("My name is...")
@@ -28,7 +27,7 @@ quotation marks.
 '''
 print("Slim Shady")
 ```
-~~~
+
 
 
 Although there will not be many lines of commentary in this book, you should make a habit of adding them to each line of your code like the one above to explain what each code does. 

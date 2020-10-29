@@ -9,7 +9,7 @@ For comments that will be written over several lines, you can add 3 quotation ma
 
 Type the following code into Python and see what happens when you try to run it:
 
-```
+```python
 # This line of text is ignored. The next line prints some text
 print("My name is...")
 

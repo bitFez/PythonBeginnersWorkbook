@@ -32,7 +32,7 @@ Write another line in the Python language stating who your favourite singer
 What do you think would happen if the Python code you wrote included quotation marks?
 For example:
 
-        `print("She said "she loves you" and you know you should be glad")`
+`print("She said "she loves you" and you know you should be glad")`
 
 Try this out in Python and write your answer in the box below.
 

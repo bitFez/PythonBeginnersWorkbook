@@ -16,10 +16,25 @@ Like this:
 Did you notice how the print function is written in lowercase?
 Write your name in the box below using the Python language.
 
+<!-- a Need to work out how to best display a text box for writing in! -->
+|-------------------------------------------------------------------------|
+|-------------------------------------------------------------------------|
 
+Write another line in the Python language stating who your favourite singer
+ or band is.
 
------------------------------------------------------------------
-|                                                                |
------------------------------------------------------------------
+|-------------------------------------------------------------------------|
+|-------------------------------------------------------------------------|
 
+What do you think would happen if the Python code you wrote included quotation marks?
+For example:
 
+`print("She said "she loves you" and you know you should be glad")`
+
+Try this out in Python and write your answer in the box below.
+
+|-------------------------------------------------------------------------|
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|-------------------------------------------------------------------------|

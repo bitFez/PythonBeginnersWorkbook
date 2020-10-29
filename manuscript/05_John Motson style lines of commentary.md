@@ -1,5 +1,5 @@
 # John Motson style lines of commentary
-OK, this has nothing to do with football! When writing code, you should add comments to your work so that you can remind yourself later what a section of code is meant to do. Sometimes looking at lots of code can be complicated so it may be useful to add descriptive comments to help yourself and others who may be reading your code to make sense of it.
+OK, this has nothing to do with football[^1]![^At the time I had written the first version of this book, John Motson was a famous commentator. At the time of re-writing this edition of the workbook, Motson has now retired and younger coders may not recognise the name!] When writing code, you should add comments to your work so that you can remind yourself later what a section of code is meant to do. Sometimes looking at lots of code can be complicated so it may be useful to add descriptive comments to help yourself and others who may be reading your code to make sense of it.
 
 A comment is a line of text that the computer will not read as code. The computer will ignore the line and move to the next line of code.
 

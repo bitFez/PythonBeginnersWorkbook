@@ -12,7 +12,8 @@ For example:
 |-|-|
 |`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
 
-|`input("What is your name?: ")` | The first line asks for your name.|
+|    input("What is your name?: ") | The first line asks for your name.|
+     print("my name is R2D2")
 |-|-|
 |`print("my name is R2D2")` | The 2nd line merely states a name.|
 

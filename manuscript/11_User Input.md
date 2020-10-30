@@ -5,7 +5,5 @@ Python uses the input() function to ask a question to the programme’s user.
 For example:
 | Syntax | Description |
 | :----------- | :----------- |
-| ```python
-input("What is your name?:   ")
-print("my name is R2D2")``` | Title |
+| `input("What is your name?: ") print("my name is R2D2")` | Title |
 | Paragraph | Text |

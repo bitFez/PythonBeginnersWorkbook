@@ -6,3 +6,11 @@ For example:
 :----------- | :----------- 
 `input("What is your name?: ") print("my name is R2D2")` | The first line asks for your name.
  Paragraph | Text 
+
+
+----------------------- ------------------------------------
+![Tip](images/tip.png)\ Table multiline text bla bla bla bla
+                        bla bla bla bla bla bla bla ... the
+                        blank line below is important 
+
+----------------------------------------------------------------

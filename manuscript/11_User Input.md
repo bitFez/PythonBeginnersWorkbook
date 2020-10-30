@@ -4,6 +4,6 @@ We have looked at how to write text and how to create variables but now we need 
 Python uses the input() function to ask a question to the programme’s user. 
 For example:
 | Syntax | Description |
-| ----------- | ----------- |
+| :----------- | :----------- |
 | `input("What is your name?:   ")` | Title |
 | Paragraph | Text |

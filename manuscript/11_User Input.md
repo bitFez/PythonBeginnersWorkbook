@@ -4,10 +4,16 @@ We have looked at how to write text and how to create variables but now we need 
 Python uses the input() function to ask a question to the program’s user. 
 For example:
 
+<!--
 | | |
 |-|-|
 |`input("What is your name?: ")` | The first line asks for your name.|
 |`print("my name is R2D2")` | The 2nd line merely states a name.|
+-->
+```python
+input("What is your name?: ") # The 1st line asks for your name.
+print("my name is R2D2")      # The 2nd line merely states a name.
+```
 
 The problem with the above code is that after asking for your name, the program doesn’t save it. Do you remember that by using a `=` symbol we assign a variable?
 ```python

@@ -17,8 +17,6 @@ For example:
 |`print("my name is R2D2")` | The 2nd line merely states a name.|
 
 
-| | |
-|-|-|
-|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
-
----
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |

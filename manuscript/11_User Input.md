@@ -6,5 +6,5 @@ For example:
 
 | | |
 |-|-|
-|    input("What is your name?: ") | The first line asks for your name.|
+|`input("What is your name?: ")` | The first line asks for your name.|
 |`print("my name is R2D2")` | The 2nd line merely states a name.|

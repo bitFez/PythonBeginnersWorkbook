@@ -8,9 +8,15 @@ For example:
  Paragraph | Text 
 
 
------------------------ ------------------------------------
-![Tip](images/tip.png)\ Table multiline text bla bla bla bla
-                        bla bla bla bla bla bla bla ... the
-                        blank line below is important 
+| | |
+|-|-|
+|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
 
-----------------------------------------------------------------
+|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
+|-|-|
+
+| | |
+|-|-|
+|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
+
+---

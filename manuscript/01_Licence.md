@@ -9,8 +9,7 @@
 ### Adapt — remix, transform, and build upon the material
 
 
-|       | ## Under the following conditions: |
 | :---        | :---   |
-| Header      | Title       |
+|       | Under the following conditions:       |
 | ![img](https://creativecommons.org/images/deed/attribution_icon_white_x2.png)   | Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |
 |       |              |

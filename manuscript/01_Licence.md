@@ -1,4 +1,4 @@
-# Licence
+# Licence             ![img](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
@@ -9,7 +9,9 @@
 ### Adapt — remix, transform, and build upon the material
 
 
-| :---        | :---   |
+
 |       | Under the following conditions:       |
-| ![img](https://creativecommons.org/images/deed/attribution_icon_white_x2.png)   | Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |
-|       |              |
+| :---:  | :---   |
+| ![img](https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png) | Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |
+| ![img](https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png) | NonCommercial — You may not use the material for commercial purposes. |
+| ![img](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png) | ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. |

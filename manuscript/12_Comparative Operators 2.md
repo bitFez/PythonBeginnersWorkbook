@@ -14,17 +14,12 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
 <td>
 
 ^ Extra blank line above!
-```json
-json
-{
-    "id": 10,
-    "username": "alanpartridge",
-    "email": "alan@alan.com",
-    "password_hash": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS",
-    "password_salt": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.",
-    "created_at": "2015-02-14T20:45:26.433Z",
-    "updated_at": "2015-02-14T20:45:26.540Z"
-}
+```python
+age = int(input("What is your age?"))
+if age < 16:
+    print("you are young!")
+else:
+    print("your are getting old!")
 ```
 V Extra blank line below!
 

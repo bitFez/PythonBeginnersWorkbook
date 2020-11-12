@@ -28,3 +28,12 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
   </tr>
 </tbody>
 </table>
+| Status | Response  |
+| ------ | --------- |
+| 200    | `json`                          |
+|        | `   {`                          |
+|        | ` "id": 10,`                    |
+|        | ` "username": "alanpartridge",` |
+|        | ` more code...`                 |
+|        | `}`                             |
+| 400    |                                 |

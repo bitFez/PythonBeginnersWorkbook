@@ -7,7 +7,7 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
 
 <table>
 <tr>
-    <th class="tg-0lax" colspan="2"></th>
+<th class="tg-0lax" colspan="2">Task 1. Let’s write a basic if statement using a variable first.</th>
 </tr>
 <tr>
 <td> 
@@ -30,13 +30,6 @@ If the answer is else, it should reply, “Wow that’s a big collection of marb
 
 </td>
 </tr>
-<tr>
-<td> 400 </td>
-<td>
 
-**Markdown** _here_. (Blank lines needed before and after!)
-
-</td>
-</tr>
 </table>
 

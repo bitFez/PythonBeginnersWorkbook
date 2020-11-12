@@ -39,10 +39,10 @@ Every other time to check ***if*** something is `True`, Python uses `elif`.
 <table>
 <tbody>
   <tr>
-    <td class="tg-0lax" colspan="2">Task 1</td>
+    <td colspan="2">Task 1</td>
   </tr>
 <tr>
-<td style="width:50%;"> 
+<td> 
 
 Write a programme to check if someone's name is John, George, Ringo or Paul. If one of those names is True, Python should say:
 
@@ -74,18 +74,18 @@ If not, Python should say:
     <td colspan="2">Task 2</td>
   </tr>
 <tr>
-<td > 
+<td colspan="2"> 
 
 Write a programme to comment on how interesting a football match was.
 * If no goals were scored, Python should say `"the game was a bore draw!"`
-* 1-2 goals: `"Not the most interesting game"
-* 3-5 goals: `"It was a very interesting game"
-* 6+ goals: `"The football match was an unmissable game!"
+* 1-2 goals: `"Not the most interesting game"`
+* 3-5 goals: `"It was a very interesting game"`
+* 6+ goals: `"The football match was an unmissable game!"`
 
 </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="4">
     
 ```
     

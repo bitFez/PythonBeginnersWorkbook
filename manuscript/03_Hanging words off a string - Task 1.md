@@ -2,8 +2,9 @@
 In Python, getting the computer to write words can be done using the print function.
 For example the code would look like this:
 
-`print("Hello World")`
-
+```python
+ print("Hello World")
+```
 The word *print* tells Python that you want it to *print* or display some words on the screen.
 This is called printing a string. Imagine letters being stringed up back to back and displayed on the screen in the order they have been strung up!
 

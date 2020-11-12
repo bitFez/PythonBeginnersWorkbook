@@ -44,7 +44,7 @@ Every other time to check ***if*** something is `True`, Python uses `elif`.
 <tr>
 <td> 
 
-Write a programme to check if someone's name is John, George, Ringo or Paul. If one of those names is True, Python should say:
+Write a programme to check if a user goes by the name of either John, George, Ringo or Paul. If one of those names is True, Python should say:
 
 > `>"Hey that’s the name of a Beatle!"`
 

@@ -42,7 +42,7 @@ Every other time to check ***if*** something is `True`, Python uses `elif`.
     <td class="tg-0lax" colspan="2">Task 1</td>
   </tr>
 <tr>
-<td> 
+<td style="width:50%;"> 
 
 Write a programme to check if someone's name is John, George, Ringo or Paul. If one of those names is True, Python should say:
 >"Hey that’s the name of a Beatle!" 
@@ -52,7 +52,7 @@ If not, Python should say:
 Write your answer in the next box 
 
 </td>
-<td>
+<td style="width:50%;">
 
 </td>
 </tr>

@@ -51,9 +51,19 @@ Write a programme to check if someone's name is John, George, Ringo or Paul. If 
 If not, Python should say:
 
 > `>"That’s a nice name"`
-
 </td>
 </tr>
-<tr><td></td></tr>
+<tr>
+  <td>
+    
+```
+    
+    
+
+
+```
+
+  </td>
+</tr>
 </tbody>
 </table>

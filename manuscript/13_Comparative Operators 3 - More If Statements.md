@@ -76,7 +76,7 @@ If not, Python should say:
 <tr>
 <td colspan="12"> 
 
-Write a programme to comment on how interesting a football match was.
+Write a programme to comment on how interesting a football match was. Remember to use the `elif` command several times like in the example above.
 * If no goals were scored, Python should say `"the game was a bore draw!"`
 * 1-2 goals: `"Not the most interesting game"`
 * 3-5 goals: `"It was a very interesting game"`

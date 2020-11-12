@@ -45,29 +45,13 @@ Every other time to check ***if*** something is `True`, Python uses `elif`.
 <td style="width:50%;"> 
 
 Write a programme to check if someone's name is John, George, Ringo or Paul. 
-
 If one of those names is True, Python should say:
 >`>"Hey that’s the name of a Beatle!"`
-
 If not, Python should say:
 >`>"That’s a nice name"`
 
-Write your answer in the next box 
-
-</td>
-<td>
-
-     |   
-     |  
-     |   
-     |   
-     |   
-     |   
-     |   
-     |   
-     |   
-
 </td>
 </tr>
+<tr><td></td></tr>
 </tbody>
 </table>

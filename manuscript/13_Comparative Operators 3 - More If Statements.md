@@ -74,7 +74,7 @@ If not, Python should say:
     <td colspan="2">Task 2</td>
   </tr>
 <tr>
-<td colspan="2"> 
+<td colspan="12"> 
 
 Write a programme to comment on how interesting a football match was.
 * If no goals were scored, Python should say `"the game was a bore draw!"`
@@ -85,7 +85,7 @@ Write a programme to comment on how interesting a football match was.
 </td>
 </tr>
 <tr>
-  <td colspan="4">
+  <td colspan="12">
     
 ```
     

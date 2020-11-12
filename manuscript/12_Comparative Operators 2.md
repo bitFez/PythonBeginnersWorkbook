@@ -7,10 +7,20 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
 
 <table>
 <tr>
-<th class="tg-0lax" colspan="2"></th>
+    <th class="tg-0lax" colspan="2"></th>
 </tr>
 <tr>
-<td> 200 </td>
+<td> 
+
+```python
+age = int(input("What is your age?"))
+if age < 16:
+    print("you are young!")
+else:
+    print("your are getting old!")
+```
+
+</td>
 <td>
 
 ^ Extra blank line above!

@@ -14,3 +14,6 @@ OK currently, I am updating an older workbook i produced a while back that just 
 ## If you like it... 
 please feel free to buy me a coffee through LeanPub [leanpub.com/python4schools](https://leanpub.com/python4schools)
 If you see any issues, please do raise an issue and let me know.
+
+## For contributers...
+Trying to get the layout to work in markdown has been a lot of trial and error. Thanks to [this post](https://stackoverflow.com/a/60502719/3550161) I have been able to embed codeblocks into tables for side by side code and text or images.

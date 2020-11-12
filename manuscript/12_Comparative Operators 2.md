@@ -8,12 +8,22 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dvpl" colspan="2">This row sdfsd fd</th>
+    <th class="tg-dvpl" colspan="2">Task 1. Let’s write a basic if statement using a variable first.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">
+      <code>
+        ```python
+        age = int(input("What is your age?"))
+        if age < 16:
+            print("you are young!")
+        else:
+            print("your are getting old!")
+        ```
+      </code>
+    </td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>

@@ -58,16 +58,15 @@ Write your answer in the next box
 </td>
 <td>
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
 </td>
 </tr>

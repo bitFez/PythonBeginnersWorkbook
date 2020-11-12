@@ -5,7 +5,8 @@ Your task now is to combine a comparative operator with an input. Computers ofte
 <img style="position: absolute; top: 76px; right: 0; border: 0" height="200px" alt="comparing a if statement written in Python with a flowchart" 
 src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_statements.svg?sanitize=true"></a>
 
-<style type="text/css">
+<div>
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -28,3 +29,4 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
   </tr>
 </tbody>
 </table>
+</div>

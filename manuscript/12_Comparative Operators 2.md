@@ -10,25 +10,25 @@ src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_sta
     <th class="tg-0lax" colspan="2"></th>
 </tr>
 <tr>
-    <td> 
+<td> 
 
-    ```python
-    age = int(input("What is your age?"))
-    if age < 16:
-        print("you are young!")
-    else:
-        print("your are getting old!")
-    ```
+```python
+age = int(input("What is your age?"))
+if age < 16:
+    print("you are young!")
+else:
+    print("your are getting old!")
+```
 
-    </td>
-    <td>
-        
-        Re-write this if statement to ask how many marbles I have. (Notice how the code int is infront of input because the data being entered is a number.)
+</td>
+<td>
 
-        If the person has less than 6 marbles, it should reply “I have more than you”
-        If the answer is else, it should reply, “Wow that’s a big collection of marbles!!”
+Re-write this if statement to ask how many marbles I have. (Notice how the code int is infront of input because the data being entered is a number.)
 
-    </td>
+If the person has less than 6 marbles, it should reply “I have more than you”
+If the answer is else, it should reply, “Wow that’s a big collection of marbles!!”
+
+</td>
 </tr>
 <tr>
 <td> 400 </td>

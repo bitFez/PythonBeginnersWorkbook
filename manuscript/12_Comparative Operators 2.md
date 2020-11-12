@@ -6,9 +6,10 @@ Your task now is to combine a comparative operator with an input. Computers ofte
 src="https://github.com/learnICT/PythonBeginnersWorkbook/blob/main/images/if_statements.svg?sanitize=true"></a>
 
 <table>
-<tr>
-<th class="tg-0lax" colspan="2">Task 1. Let’s write a basic if statement using a variable first.</th>
-</tr>
+<tbody>
+  <tr>
+    <td class="tg-0lax" colspan="2">Task 1. Let’s write a basic if statement using a variable first.</td>
+  </tr>
 <tr>
 <td> 
 
@@ -30,6 +31,6 @@ If the answer is else, it should reply, “Wow that’s a big collection of marb
 
 </td>
 </tr>
-
+</tbody>
 </table>
 

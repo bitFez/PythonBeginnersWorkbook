@@ -34,3 +34,22 @@ If the answer is else, it should reply, “Wow that’s a big collection of marb
 </tbody>
 </table>
 
+Write your answer below
+```
+
+
+
+
+
+```
+
+Task 2. New challenge. Let’s get Python to ask if my name is John. If it is, Python should reply, “That’s my name too!” if else Python should reply, “Well it’s not a great name but it will do”.
+```
+
+
+
+
+
+```
+Remember the == operator checked if something was the same as something else.
+

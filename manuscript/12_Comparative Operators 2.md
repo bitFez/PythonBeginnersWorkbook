@@ -51,5 +51,5 @@ Task 2. New challenge. Let’s get Python to ask if my name is John. If it is, P
 
 
 ```
-Remember the == operator checked if something was the same as something else.
+Remember the `==` operator compares to see if something was the same as something else.
 

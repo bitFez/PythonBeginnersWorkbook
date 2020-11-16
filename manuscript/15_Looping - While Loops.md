@@ -7,18 +7,10 @@ Computers can be programmed to continue repeating code ***while*** a condition h
 <td> 
 
 ```python
-temp = int(input("What's the temperature in celcius?"))
-
-if temp < 8:
-    print("Brr, its a cold day!!!")
-elif temp >= 8 and temp < 15:
-    print("I'ts a mild day")
-elif temp >= 15  and temp < 21:
-    print("Its a warm day")
-elif temp >= 21:
-    print("It's a hot day")
-else:
-    print("sorry, you must enter a number")
+age = int(input("What's your age?"))
+while age <12:
+    print("You are too young to watch 12 rated movies.")
+    
 ```
 
 </td>

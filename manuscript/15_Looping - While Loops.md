@@ -1,7 +1,7 @@
 # Looping - While Loops
 Computers can be programmed to continue repeating code ***while*** a condition has not been met.
 <!-- https://62andthenext10pathways.blogspot.com/2015/02/bakerloo-line-regents-park.html -->
-![Tube Map](images/tube_stops.jpg)
+![Tube Map](../images/tube_stops.jpg)
 <table>
 <tbody>
 <tr>

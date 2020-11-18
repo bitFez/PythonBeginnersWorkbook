@@ -5,14 +5,14 @@ When writing code sometimes we need to repeat code several times and therefore e
 <tbody>
 <tr>
 <td>
-<img alt="Tube Map" style="border-width:0" src="../images/numbermachine_temp.PNG" height="200px" /> 
+<img alt="Tube Map" style="border-width:0" src="../images/numbermachine_temp.PNG" height="250px" /> 
 <!-- The boys need to redraw this -->
 </td>
 <td>
 
 To give you a basic idea we shall create a number machine that will receive a number and perform an action to it.
 
-As you can see from the illustration on the left, the number `5` is given to the machine as an *argument*.
+As you can see from the illustration on the left, the number `5` is given to the machine as an ***argument***.
 
 It is then multiplied by `5` and divided by `2`.
 
@@ -41,7 +41,7 @@ numberMachine(5)
 Here the name of the function is defined. x will be replaced with a number. 
 Underneath the name of the function the calculation is added.
 
-Wherever the name of the function is written on a page of code, it will *'call upon'* it and execute it. This can be called *calling* the function.
+Wherever the name of the function is written on a page of code, it will ***'call upon'*** it and execute it. This can be called *calling* the function.
 
 </td>
 </tr>

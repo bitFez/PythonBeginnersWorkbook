@@ -14,7 +14,8 @@ Create a list called avengers for The Avengers characters, Captain America, Thor
 
 ```
 
-Try to print the list in Python by typing ```python
+Try to print the list in Python by typing 
+```python
 print(avengers)
 ```
 
@@ -27,21 +28,21 @@ print(shopping[0])
 
 Task 2
 a. Write the code to print the third string in the avengers list.
-```python
+```
 
 
 
 ```
 
 b. Write the code to concatenate: “The character who has a special hammer is “ with the 2nd string in the list.
-```python
+```
 
 
 
 ```
 
 c. Write the code to concatenate that your favourite characters are the 1st and 4th in the list.
-```python
+```
 
 
 

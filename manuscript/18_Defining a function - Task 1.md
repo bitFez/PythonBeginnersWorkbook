@@ -63,40 +63,38 @@ Task
 <td>
 
 ```python
-def numberMachine(x):
-    x = x * x * x / 3
-    print(x)
 
-numberMachine(x)
+
+
+
+
+
+
+
+
+
+
 ```
 
 </td>
 <td>
 
 ```python
-def numberMachine(x):
-    pi = 3.14
-    y = pi * x * x
-    print(y)
 
-numberMachine(x)
+
+
+
+
+
+
+
+
+
+
 ```
 </td>
 </tr>
 </tbody>
 </table>
-
-
-def numberMachine(x):
-    x = x * x * x / 3
-    print(x)
-
-numberMachine(x)
-def numberMachine(x):
-    pi = 3.14
-    y = pi * x * x
-    print(y)
-
-numberMachine(x)
 
 

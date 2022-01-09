@@ -12,7 +12,7 @@ OK currently, I am updating an older workbook i produced a while back that just 
 * more to come
 
 ## If you like it... 
-please feel free to buy me a coffee through LeanPub [leanpub.com/python4schools](https://leanpub.com/python4schools)
+please feel free to buy me a coffee through LeanPub [leanpub.com/python4schools](https://leanpub.com/python4schools) or [Ko-fi/bitFez](https://ko-fi.com/bitfez).
 If you see any issues, please do raise an issue and let me know.
 
 ## For contributers...

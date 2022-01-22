@@ -8,4 +8,4 @@ It's important to note that this book is not meant to replace the teaching of co
 
 In essence, computer programming is all about solving problems. The aim of this book is to help teach the basic syntax and concepts of Python before presenting students with more complicated problem solving tasks later on (probably to be presented in book 2 😀).
 
-If you like this book, please share it with colleagues and peers. If you find errors or you have suggestions for improvement, please feel free to raise an issue in the Github repository for the book, [github.com/learnICT/PythonBeginnersWorkbook](https://github.com/learnICT/PythonBeginnersWorkbook) or contact me via the contact form on the bottom of the homepage [www.learnICT.it](http://www.learnICT.it)
+If you like this book, please share it with colleagues and peers. If you find errors or you have suggestions for improvement, please feel free to raise an issue in the Github repository for the book, [github.com/BitFez/PythonBeginnersWorkbook](https://github.com/bitfez/PythonBeginnersWorkbook) or contact me via the contact form on the bottom of the homepage [www.CodeFez.gq](http://www.codefez.gq), formerly LearnICT.it

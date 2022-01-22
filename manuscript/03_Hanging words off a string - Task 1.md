@@ -34,7 +34,7 @@ For example:
 ```python
 print("She said "she loves you" and you know you should be glad")
 ```
-Try this out in Python and write your answer in the box below.
+Try this out in Python and write what happens in the box below.
 
 ~~~~
 

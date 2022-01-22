@@ -7,7 +7,7 @@ There are 2 ways to add comments:
 For a single line of commenting you simply add a hash (#) in front of the line that is a comment.
 For comments that will be written over several lines, you can add 3 quotation marks before and after your comments. This can be either single or double quotation marks (`'''` or `"""`)
 
-Type the following code into Python and see what happens when you try to run it:
+Type the following code into Python and see what happens when you try to run it[^2]:
 
 ```python
 # This line of text is ignored. The next line prints some text
@@ -33,3 +33,4 @@ print("Slim Shady")
 Although there will not be many lines of commentary in this book, you should make a habit of adding them to each line of your code like the one above to explain what each code does. 
 
 [^1]: At the time I had written the first version of this book, John Motson was a famous commentator. At the time of re-writing this edition of the workbook, Motson has now retired and younger coders may not recognise the name!
+[^2]: Come to think of it, will anyone know Slim Shady? 🤔
